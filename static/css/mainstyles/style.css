@@ -1,0 +1,10 @@
+:root {
+    --bulma-control-height: auto;
+    --bulma-title-color: rgba(207 29 29 0.74);
+}
+
+body {
+    position: relative;
+    z-index: -11;
+}
+
